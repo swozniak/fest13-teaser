@@ -26,11 +26,11 @@
 <body>
     <div class="content-wrapper">
         <div id="fest-splash-wrapper" class="splash-wrapper">
-            <img id="/img/teaser.png" alt="FEST 13 - OCT 31, NOV 1 &amp; 2, 2014 - GAINESVILLE, FL">
+            <img id="fest-splash" src="/img/teaser.png" alt="FEST 13 - OCT 31, NOV 1 &amp; 2, 2014 - GAINESVILLE, FL">
         </div>
         <div class="memo-wrapper">
 	        <div id="prefest-splash-wrapper" class="splash-wrapper">
-	            <img id="/img/prefest_teaser.png" alt="PRE-FEST 2 | OCT 29 &amp; 30, 2014 | YBOR (TAMPA), FL">
+	            <img id="prefest-splash" src="/img/prefest_teaser.png" alt="PRE-FEST 2 | OCT 29 &amp; 30, 2014 | YBOR (TAMPA), FL">
 	        </div>
 	        
         	<hr />
